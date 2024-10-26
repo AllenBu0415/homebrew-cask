@@ -2,7 +2,7 @@ cask "typora" do
   version "1.9.4"
   sha256 "ffcbf15e22828f8b2263bcefd587736a23be8e3f3743d4a5c533aec1ef24657a"
 
-  url "https://download.typora.io/mac/Typora.dmg"
+  url "https://github.com/AllenBu0415/homebrew-cask/releases/download/typora%401.9.4/Typora.dmg"
   name "Typora"
   desc "Configurable document editor that supports Markdown"
   homepage "https://typora.io/"
